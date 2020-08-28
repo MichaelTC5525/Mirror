@@ -1,0 +1,4 @@
+GameMode: TargetPractice
+TankX: 915.0
+TankY: 825.0
+TankSpeed: 15
